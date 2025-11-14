@@ -25,13 +25,13 @@ While both are factors in divorce, their predictive power is dramatically differ
 
 These 10 questions represent a fundamental misalignment in the relationship's core. They are the strongest statistical predictors of divorce. A high score on these indicates a lack of shared values, goals, and emotional harmony.
 
-/presentation/graphs/most_influent_questions.png)
+/presentation/graphs/most_influent_questions.png
 
 ### 2. The Weakest Predictors: "Communication Breakdowns" (Corr: 0.42 - 0.71)
 
 This group of 10 questions perfectly describes the destructive communication patterns (Contempt, Defensiveness, Stonewalling) identified by Gottman.
 
-/presentation/graphs/least_influent_questions.png)
+/presentation/graphs/least_influent_questions.png
 
 ### The Big Idea:
 
