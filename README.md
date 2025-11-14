@@ -58,4 +58,5 @@ This suggests that while communication can be repaired, a fundamental misalignme
     ```
 2.  If you want you can use the already downloaded dataset, or you can download it from the [Kaggle link](https://www.kaggle.com/datasets/andrewmvd/divorce-predictors-data-based-on-gottman).
 3.  Place the `divorce_data.csv` and `reference.tsv` files into a `/data` folder (you may need to create this folder).
-4.  Open `divorce_analysis.ipynb` in a Jupyter environment to view and run the full analysis.
+4.  Create the `/graphs` folder (in order to get real time graphs about the data)
+5.  Open `divorce_analysis.ipynb` in a Jupyter environment to view and run the full analysis.
