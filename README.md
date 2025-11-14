@@ -2,7 +2,7 @@
 
 This project analyzes a dataset of 170 Turkish couples to identify the key statistical predictors of divorce. The analysis is based on the "Divorce Predictors Scale" (DPS) derived from Gottman's couples therapy principles.
 
-- **See the full technical analysis:** [**analysis.ipynb**](analysis.ipynb)
+- **See the full technical analysis:** [**divorce_analysis.ipynb**](analysis.ipynb)
 - **See the summary presentation:** [**presentation/presentation.pdf**](presentation/presentation.pdf)
 
 ## Project Context
@@ -25,13 +25,13 @@ While both are factors in divorce, their predictive power is dramatically differ
 
 These 10 questions represent a fundamental misalignment in the relationship's core. They are the strongest statistical predictors of divorce. A high score on these indicates a lack of shared values, goals, and emotional harmony.
 
-!(presentation/most_influent_questions.png)
+/presentation/graphs/most_influent_questions.png)
 
 ### 2. The Weakest Predictors: "Communication Breakdowns" (Corr: 0.42 - 0.71)
 
 This group of 10 questions perfectly describes the destructive communication patterns (Contempt, Defensiveness, Stonewalling) identified by Gottman.
 
-!(presentation/least_influent_questions.png)
+/presentation/graphs/least_influent_questions.png)
 
 ### The Big Idea:
 
